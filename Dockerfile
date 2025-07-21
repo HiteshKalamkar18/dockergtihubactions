@@ -3,7 +3,7 @@ FROM python as clone
 #Set Working Directory
 WORKDIR /app
 
-COPY python.py
+COPY python.py /app
 
 #Install Dependencies
 RUN pip install --no-cache-dir -r requirements.txt
