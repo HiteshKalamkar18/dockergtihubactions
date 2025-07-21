@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1753114034,,"wq"
+|2,0,1753114308,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,46 @@
 # Registers:
 
 # File marks:
-'0  14  21  ~/Dockerfile
-|4,48,14,21,1753114034,"~/Dockerfile"
-'1  6  18  ~/Dockerfile
-|4,49,6,18,1753113489,"~/Dockerfile"
-'2  6  18  ~/Dockerfile
-|4,50,6,18,1753113489,"~/Dockerfile"
-'3  1  0  ~/.ssh/authorized_keys
-|4,51,1,0,1753110416,"~/.ssh/authorized_keys"
-'4  1  4  ~/requirements.txt
-|4,52,1,4,1753109660,"~/requirements.txt"
-'5  1  0  ~/requirements.tx
-|4,53,1,0,1753109618,"~/requirements.tx"
-'6  15  0  ~/Dockerfile
-|4,54,15,0,1753109608,"~/Dockerfile"
-'7  15  0  ~/Dockerfile
-|4,55,15,0,1753109608,"~/Dockerfile"
-'8  14  0  ~/Dockerfile
-|4,56,14,0,1753109608,"~/Dockerfile"
-'9  14  0  ~/Dockerfile
-|4,57,14,0,1753109608,"~/Dockerfile"
+'0  6  22  ~/Dockerfile
+|4,48,6,22,1753114308,"~/Dockerfile"
+'1  14  21  ~/Dockerfile
+|4,49,14,21,1753114147,"~/Dockerfile"
+'2  14  21  ~/Dockerfile
+|4,50,14,21,1753114147,"~/Dockerfile"
+'3  14  21  ~/Dockerfile
+|4,51,14,21,1753114034,"~/Dockerfile"
+'4  14  21  ~/Dockerfile
+|4,52,14,21,1753114034,"~/Dockerfile"
+'5  6  18  ~/Dockerfile
+|4,53,6,18,1753113489,"~/Dockerfile"
+'6  6  18  ~/Dockerfile
+|4,54,6,18,1753113489,"~/Dockerfile"
+'7  6  18  ~/Dockerfile
+|4,55,6,18,1753113489,"~/Dockerfile"
+'8  6  18  ~/Dockerfile
+|4,56,6,18,1753113489,"~/Dockerfile"
+'9  6  18  ~/Dockerfile
+|4,57,6,18,1753113489,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  6  22  ~/Dockerfile
+|4,39,6,22,1753114308,"~/Dockerfile"
+-'  14  21  ~/Dockerfile
+|4,39,14,21,1753114160,"~/Dockerfile"
+-'  14  21  ~/Dockerfile
+|4,39,14,21,1753114147,"~/Dockerfile"
 -'  14  21  ~/Dockerfile
 |4,39,14,21,1753114034,"~/Dockerfile"
 -'  6  18  ~/Dockerfile
 |4,39,6,18,1753113948,"~/Dockerfile"
 -'  6  18  ~/Dockerfile
+|4,39,6,18,1753113948,"~/Dockerfile"
+-'  6  18  ~/Dockerfile
 |4,39,6,18,1753113489,"~/Dockerfile"
+-'  15  0  ~/Dockerfile
+|4,39,15,0,1753113403,"~/Dockerfile"
+-'  15  0  ~/Dockerfile
+|4,39,15,0,1753113403,"~/Dockerfile"
 -'  15  0  ~/Dockerfile
 |4,39,15,0,1753113403,"~/Dockerfile"
 -'  14  0  ~/Dockerfile
@@ -65,6 +77,78 @@
 |4,39,1,0,1753110416,"~/.ssh/authorized_keys"
 -'  1  0  ~/.ssh/authorized_keys
 |4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1753110416,"~/.ssh/authorized_keys"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1753109660,"~/requirements.txt"
 -'  1  4  ~/requirements.txt
 |4,39,1,4,1753109660,"~/requirements.txt"
 -'  1  4  ~/requirements.txt
@@ -113,148 +197,64 @@
 |4,39,1,0,1753109618,"~/requirements.tx"
 -'  1  0  ~/requirements.tx
 |4,39,1,0,1753109618,"~/requirements.tx"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  14  0  ~/Dockerfile
-|4,39,14,0,1753109608,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  10  0  ~/Dockerfile
-|4,39,10,0,1753109282,"~/Dockerfile"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
--'  9  37  ~/python.py
-|4,39,9,37,1753109227,"~/python.py"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
+-'  1  0  ~/requirements.tx
+|4,39,1,0,1753109618,"~/requirements.tx"
 
 # History of marks within files (newest to oldest):
 
 > ~/Dockerfile
-	*	1753114031	0
-	"	14	21
-	^	14	22
-	.	14	21
+	*	1753114307	0
+	"	6	22
+	^	6	23
+	.	6	22
 	+	3	22
 	+	9	49
 	+	8	20
@@ -262,6 +262,10 @@
 	+	6	18
 	+	12	11
 	+	14	21
+	+	9	49
+	+	6	76
+	+	6	430
+	+	6	22
 
 > ~/.ssh/authorized_keys
 	*	1753110395	0
